@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\AAV.Shared\Src\Net.CI\StandardContractsLib\StandardContractsLib.csproj" />
+    <ProjectReference Include="..\..\..\AAV.Shared\Src\Net.CI\WpfUserControlLib\WpfUserControlLib.csproj" />
+    <ProjectReference Include="..\SmrePOC.Contract\SmrePOC.Contract.csproj" />
+    <ProjectReference Include="..\SmrePOC.VM\SmrePOC.VM.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    >
+  <!--
+                    xmlns:vm="clr-namespace:SmrePOC.VM.VMs;assembly=SmrePOC.VM" 
+                    xmlns:vv="clr-namespace:SmrePOC.VM.VMs;assembly=SmrePOC.VM" 
+                    xmlns:view_Main______________________="clr-namespace:SmrePOC.View.Main"
+                    xmlns:view_Main_MDI__________________="clr-namespace:MinFin7MdiLib.Views;assembly=MinFin7MdiLib"
+  <DataTemplate DataType="{x:Type vm:LayoutVM}">
+    <view_Main______________________:Layout />
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vm:Page00VM}">
+    <view_Main______________________:Page00View />
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vm:Page01VM}">
+    <view_Main______________________:Page01View />
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vm:Page02VM}">
+    <view_Main______________________:Page02View />
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vv:Page03VM}">
+    <view_Main______________________:Page03View/>
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vv:Page04VM}">
+    <view_Main______________________:Page04View/>
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vv:Page05VM}">
+    <view_Main______________________:Page05View/>
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vv:EmailDetailVM}">
+    <view_Main______________________:EmailDetailView/>
+  </DataTemplate>
+  <DataTemplate DataType="{x:Type vm:MainAppDispatcherVM}">
+    <view_Main_MDI__________________:MainAppDispatcherView/>
+  </DataTemplate>
+  -->
+</ResourceDictionary>
